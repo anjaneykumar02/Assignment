@@ -1,9 +1,6 @@
 # userinfo
 
-## Assignment Submission Report
-
-This project is a starting point for a Flutter application.
-
+## Assignment Submissions Report 
 •	I had taken 10 hours to complete my assignment. I had taken 30 min initial research regarding to assignment. I had face some problem in firebase that takes 2 hours to solve that problem. I missed  below code in main.dart “DefaultFirebaseOptions.currentPlatform,” 
 
 
