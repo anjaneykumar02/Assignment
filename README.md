@@ -9,6 +9,6 @@
 This project aims to simplify the task of maintaining records of the employees of Company . To develop an well - designed database to store employee information Provides full functional reports to management of Company . The objective of this project is to provide a comprehensive approach towards the management of employee information .
 
 - [Demo Video](https://youtu.be/unDdzv4LeKM)
-- [App Link](https://github.com/anjaneykumar02/Assignment/raw/main/UserInfo.apk)
+- [App Link](https://github.com/anjaneykumar7/Assignment/raw/main/UserInfo.apk)
 
 .
